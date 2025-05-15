@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: #e5ddd5;
+  background: #e5ddd5; /* Warna khas WhatsApp */
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   display: flex;
   justify-content: center;
