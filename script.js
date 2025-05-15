@@ -31,6 +31,8 @@ function getResponse() {
     output.innerHTML = "daaah...kalo ada masalah dateng ke sini ajah bro";
   } else if (input.toLowerCase().indexOf("oke makasih") !== -1) {
     output.innerHTML = "yak sama-sama";
+  } else if (inputHTML.tolowerCare().indexOf("assalamualaikum") !== -1) {
+    output.innerHTML = "waalaikumsalam";
   } else {
     output.innerHTML = "hmm... belum ngerti maksudnya, coba ketik lagi";
   }
